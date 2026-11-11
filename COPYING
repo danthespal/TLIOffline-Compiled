@@ -1,0 +1,359 @@
+# PROPRIETARY SOFTWARE LICENSE AGREEMENT
+## Offline Server — Research & Testing Edition
+**License Version 1.0 — November 2026**
+
+Copyright © 2026 [TLI Offline]. All rights reserved.
+
+**IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE DOWNLOADING, INSTALLING, COPYING, OR USING THE SOFTWARE.**
+
+This Proprietary Software License Agreement ("Agreement") establishes the terms under which [TLI Offline] ("Licensor") makes its independently developed server software ("Software") available to end users ("Licensees").
+
+By expressly accepting this Agreement or installing or using the Software after receiving adequate notice of these terms, you agree to be bound by them to the extent permitted by applicable law.
+
+If you do not agree to these terms, do not install or use the Software.
+
+---
+
+# 1. DEFINITIONS
+
+For purposes of this Agreement:
+
+**1.1. "Software"** means the independently developed server application provided by the Licensor, including its compiled executable files, original supporting libraries, original database structures, configuration utilities, documentation, updates, and other materials expressly distributed as part of the project.
+
+**1.2. "Licensor"** means [TLI Offline], the owner or authorized distributor of the Software.
+
+**1.3. "Licensee"** means any individual or legal entity that obtains and uses the Software under this Agreement.
+
+**1.4. "Offline Use"** means operation of the Software in a local, private testing environment without offering access to the general public or providing a public gaming service.
+
+**1.5. "Third-Party Content"** means software, trademarks, game clients, artwork, sounds, animations, databases, proprietary protocols, or other intellectual property owned by parties other than the Licensor.
+
+**1.6. "Source Code"** means the human-readable programming code and development materials used to create the Software.
+
+**1.7. "Compiled Binaries"** means machine-readable executables or compiled libraries distributed without their corresponding proprietary Source Code.
+
+**1.8. "Commercial Use"** means using the Software to generate revenue or provide paid services, including commercial hosting, selling access to a server, or monetizing a service operated with the Software. Voluntary donations to the Licensor do not by themselves constitute commercial use by a Licensee.
+
+# 2. PROJECT PURPOSE AND INDEPENDENT DEVELOPMENT
+
+**2.1.** The Software is an independently developed server implementation intended for educational research, software experimentation, interoperability testing, and private offline use.
+
+**2.2.** The Software has been developed through independent programming efforts based on observations of externally observable software functionality and network communication behavior.
+
+**2.3.** The Licensor does not claim ownership of Torchlight: Infinite, its official game client, its trademarks, or any copyrighted materials belonging to XD Entertainment or other third-party rights holders.
+
+**2.4.** The project is unofficial and is not affiliated with, sponsored by, endorsed by, certified by, or authorized by XD Entertainment or any associated publisher, developer, or rights holder.
+
+**2.5.** The Software is provided as an independent technical implementation. It is not represented as an official game server, official replacement service, or officially supported product.
+
+**2.6.** Nothing in this Agreement constitutes an assertion that the operation or distribution of third-party game software is authorized by its respective rights holder.
+
+# 3. GRANT OF LICENSE
+
+**3.1.** Subject to this Agreement, the Licensor grants the Licensee a limited, personal, non-exclusive, non-transferable, non-sublicensable license to:
+
+a. Download the official compiled distribution of the Software.
+
+b. Install and execute the Software on computers or virtual machines under the Licensee's lawful control.
+
+c. Use the Software for private, noncommercial, offline experimentation, research, development testing, and educational purposes.
+
+d. Create reasonable backup copies solely for the Licensee's own permitted use.
+
+e. Modify locally supplied configuration settings to support authorized offline testing.
+
+**3.2.** This license is provided free of charge for the Offline Research & Testing Edition.
+
+**3.3.** No ownership interest or intellectual property right is transferred to the Licensee.
+
+**3.4.** All rights not expressly granted are reserved by the Licensor or their respective owners.
+
+**3.5.** This Agreement does not grant permission to use any third-party game client, copyrighted content, or proprietary service. Such permission must arise independently from the appropriate rights holder or applicable law.
+
+# 4. PROPRIETARY AND CLOSED-SOURCE STATUS
+
+**4.1.** The Software is proprietary software and is not distributed under an open-source license.
+
+**4.2.** The Licensor retains all intellectual property rights it owns in the original implementation, including its proprietary Source Code, architecture, original documentation, and original supporting tools.
+
+**4.3.** Distribution of Compiled Binaries does not grant access to, ownership of, or a general right to obtain the Software's proprietary Source Code.
+
+**4.4.** The Licensor is not obligated to publish or disclose its proprietary Source Code, except where disclosure is required by applicable law or applicable third-party license obligations.
+
+**4.5.** Nothing in this Agreement prevents the Licensor from licensing its own Software under different terms to other parties.
+
+**4.6.** No provision of this Agreement supersedes the licenses of third-party components lawfully included in the distribution.
+
+# 5. PERMITTED USE
+
+The Licensee may use the Software only within the scope of the license granted under Section 3.
+
+Permitted activities include:
+
+a. Running the Software for private offline testing.
+
+b. Researching and evaluating the Software's functionality.
+
+c. Conducting local network, database, and performance testing.
+
+d. Studying server architecture and implementation behavior through the interfaces made available by the Software.
+
+e. Creating and modifying personal configuration files.
+
+f. Reporting bugs, submitting feedback, and suggesting improvements.
+
+Any use involving third-party software or content must also comply with applicable law and any enforceable third-party agreements.
+
+# 6. RESTRICTED ACTIVITIES
+
+Except with the Licensor's prior written authorization, or where permitted by mandatory applicable law, the Licensee shall not:
+
+**6.1. Redistribution**
+
+a. Redistribute, republish, upload, mirror, or otherwise make the Software available to third parties.
+
+b. Sell, rent, lease, sublicense, or transfer copies of the Software.
+
+c. Include the Software in another public or commercial software distribution.
+
+**6.2. Public Hosting**
+
+a. Operate the Software as a publicly accessible game-server service.
+
+b. Offer access to the Software as a commercial hosting service.
+
+c. Provide public multiplayer services using the Software.
+
+d. Operate a service using the Software that competes commercially with services provided by the Licensor.
+
+**6.3. Unauthorized Modification**
+
+a. Remove or falsify copyright, ownership, or legal notices.
+
+b. Represent the Software as the Licensee's independently developed product.
+
+c. Modify the Software's compiled executables for unauthorized redistribution.
+
+d. Circumvent technical measures protecting the Licensor's proprietary licensing mechanisms, except where permitted by law.
+
+**6.4. Reverse Engineering**
+
+Except where expressly permitted by mandatory applicable law, the Licensee may not decompile, disassemble, or reverse engineer the Software for the purpose of obtaining or redistributing the Licensor's proprietary implementation.
+
+Nothing in this Agreement restricts non-excludable statutory rights, including applicable rights concerning observation, study, testing, interoperability, and lawful decompilation.
+
+**6.5. Unlawful Activities**
+
+The Software may not be used to infringe intellectual property rights, gain unauthorized access to third-party services, or engage in any other unlawful activity.
+
+# 7. OFFLINE-ONLY DISTRIBUTION
+
+**7.1.** The free edition is licensed exclusively for private, noncommercial offline use.
+
+**7.2.** The Software may support communication over localhost, loopback interfaces, or a private testing network where such communication remains within the scope of this Agreement.
+
+**7.3.** The presence of networking functionality does not grant permission to provide a publicly accessible server or hosted gaming service.
+
+**7.4.** Public distribution of access credentials, hosted instances, or multiplayer access services is not authorized under this license.
+
+**7.5.** Offline use does not exempt the Licensee from applicable copyright laws or third-party software agreements.
+
+# 8. FUTURE FEATURES AND SEPARATE LICENSES
+
+**8.1.** The Licensor reserves the right to develop additional features, editions, or services in the future.
+
+**8.2.** Such features may include enhanced tooling, management utilities, networking capabilities, or separately licensed functionality.
+
+**8.3.** Future features may be offered under additional terms, including paid licenses.
+
+**8.4.** This Agreement does not grant an automatic right to receive future paid features or services.
+
+**8.5.** The free Offline Research & Testing Edition and any future paid editions may be governed by separate agreements.
+
+**8.6.** No future feature or paid license shall be interpreted as granting rights to third-party intellectual property or authorizing unauthorized third-party gaming services.
+
+**8.7.** The Licensor's ability to offer any future online functionality is subject to applicable law and any necessary third-party authorization.
+
+# 9. THIRD-PARTY INTELLECTUAL PROPERTY
+
+**9.1.** Torchlight: Infinite, including its title, names, artwork, characters, game client, audio, visual materials, and other protected intellectual property, belongs to its respective owners.
+
+**9.2.** All references to third-party products are made for identification and compatibility-description purposes only.
+
+**9.3.** This Agreement does not license any intellectual property belonging to XD Entertainment or other third parties.
+
+**9.4.** The Licensee is responsible for independently obtaining any authorization required to use third-party software or copyrighted content.
+
+**9.5.** The Software's license does not override, replace, invalidate, or modify any enforceable agreement between the Licensee and a third-party rights holder.
+
+**9.6.** The Licensor makes no representation that using the Software with a particular third-party game client is permitted under that client's license.
+
+# 10. DISTRIBUTION AND INCLUDED MATERIALS
+
+**10.1.** The Licensor may distribute the Software through official project websites, repositories, release pages, or other authorized channels.
+
+**10.2.** Official distributions may contain:
+
+a. Compiled server executables.
+
+b. Original configuration files.
+
+c. Original database schemas and supporting data.
+
+d. Original setup scripts and tools.
+
+e. Documentation and installation instructions.
+
+f. Required legal notices and third-party licenses.
+
+**10.3.** The Software is not intended to include unauthorized copies of proprietary third-party game clients, leaked server software, or copyrighted game assets.
+
+**10.4.** Any included third-party software libraries or components remain subject to their respective licenses.
+
+**10.5.** Where a third-party license grants rights exceeding the restrictions in this Agreement, those rights remain effective for the applicable third-party component.
+
+**10.6.** If a conflict exists between this Agreement and a legally applicable third-party component license, the applicable component license governs that component.
+
+# 11. DONATIONS AND PROJECT FUNDING
+
+**11.1.** The Licensor may accept voluntary donations to support development, maintenance, infrastructure, documentation, and project-related expenses.
+
+**11.2.** Donations are voluntary and do not constitute payment for rights to third-party intellectual property.
+
+**11.3.** Unless expressly agreed separately, donations do not grant:
+
+a. Ownership rights in the Software.
+
+b. Access to proprietary Source Code.
+
+c. Commercial redistribution rights.
+
+d. Public hosting rights.
+
+e. Guaranteed access to future updates or paid features.
+
+**11.4.** The Licensor may modify or discontinue donation mechanisms at its discretion, subject to applicable law.
+
+**11.5.** No minimum development period, availability period, or guaranteed release schedule is established by a donation.
+
+# 12. UPDATES, MAINTENANCE, AND AVAILABILITY
+
+**12.1.** The Licensor may release updates, patches, compatibility fixes, and new versions at its discretion.
+
+**12.2.** The Licensor is not obligated to provide continuing maintenance, technical support, or future updates unless separately agreed.
+
+**12.3.** The Licensor may discontinue development, distribution, or support for the Software.
+
+**12.4.** The Licensor does not guarantee compatibility with future releases of third-party software.
+
+**12.5.** No change to this Agreement automatically revokes rights validly granted under an earlier accepted version, except as expressly and lawfully provided by that version or agreed by the Licensee.
+
+**12.6.** Material changes to the license applicable to future downloads or releases shall be communicated through an appropriate publication or acceptance process.
+
+# 13. DATA, PRIVACY, AND NETWORK COMMUNICATIONS
+
+**13.1.** The Offline Research & Testing Edition is intended primarily for local execution.
+
+**13.2.** Any collection or transmission of personal data by the Licensor, if implemented, shall be described in a separate, applicable privacy notice.
+
+**13.3.** This Agreement does not authorize undisclosed telemetry, collection of credentials, or access to third-party accounts.
+
+**13.4.** Licensees are responsible for securing their own test environments and avoiding the unauthorized disclosure of personal information.
+
+**13.5.** Any future online services may require additional privacy and data-processing terms.
+
+# 14. DISCLAIMER OF WARRANTIES
+
+**14.1.** TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE."
+
+**14.2.** The Licensor disclaims warranties to the extent legally permitted, including implied warranties of merchantability, fitness for a particular purpose, and uninterrupted or error-free operation.
+
+**14.3.** The Licensor does not guarantee:
+
+a. Compatibility with specific operating systems or third-party game clients.
+
+b. Availability of future updates.
+
+c. Compatibility with official online services.
+
+d. Freedom from bugs, interruptions, or data loss.
+
+e. That any specific use of third-party game software is legally authorized.
+
+**14.4.** Nothing in this section excludes statutory warranties or rights that cannot lawfully be excluded.
+
+# 15. LIMITATION OF LIABILITY
+
+**15.1.** To the maximum extent permitted by applicable law, the Licensor shall not be liable for indirect, incidental, consequential, exemplary, or special damages resulting from the use or inability to use the Software.
+
+**15.2.** This may include loss of data, interruption of business, loss of profits, or incompatibility with third-party systems, to the extent such limitations are legally enforceable.
+
+**15.3.** The Licensor shall not be responsible for a Licensee's independent infringement of third-party rights or unlawful operation of a server service.
+
+**15.4.** These limitations do not exclude liability arising from fraud, intentional misconduct, or other matters for which liability cannot lawfully be excluded.
+
+**15.5.** Mandatory consumer protection and other statutory rights remain unaffected.
+
+# 16. TERMINATION
+
+**16.1.** The license granted under this Agreement continues unless terminated in accordance with its terms.
+
+**16.2.** The license may terminate upon a material breach by the Licensee, subject to applicable law and any required notice or opportunity to remedy the breach.
+
+**16.3.** Following lawful termination, the Licensee must cease use of the Software to the extent no longer authorized and remove copies for which continued possession is not otherwise legally permitted.
+
+**16.4.** Termination shall not affect rights or obligations that by their nature survive termination, including applicable intellectual property protections, accrued liabilities, and legally enforceable limitations of liability.
+
+**16.5.** The Licensor may discontinue future releases or support without automatically terminating licenses already validly granted.
+
+# 17. ENFORCEMENT
+
+**17.1.** The Licensor reserves the right to enforce its lawful intellectual property rights and the enforceable provisions of this Agreement.
+
+**17.2.** Unauthorized redistribution, commercial exploitation, or misrepresentation of ownership may constitute a breach of this Agreement and, where applicable, an infringement of the Licensor's intellectual property rights.
+
+**17.3.** The Licensor may seek remedies available under applicable law.
+
+**17.4.** This Agreement does not authorize the Licensor to enforce intellectual property rights belonging to unrelated third parties.
+
+# 18. GOVERNING LAW AND DISPUTES
+
+**18.1.** This Agreement shall be governed by the laws of Romania, without prejudice to mandatory provisions of applicable consumer protection or other law.
+
+**18.2.** Subject to mandatory jurisdiction rules, disputes arising from this Agreement shall be handled by the courts of Romania having jurisdiction under applicable procedural law.
+
+**18.3.** The parties may attempt to resolve disputes amicably before initiating legal proceedings.
+
+**18.4.** Nothing in this Agreement deprives consumers of mandatory legal protections or jurisdictional rights.
+
+# 19. SEVERABILITY
+
+If any provision is determined to be invalid, unlawful, or unenforceable, that provision shall be ineffective only to the extent required by applicable law.
+
+The remaining provisions shall continue in effect where legally possible.
+
+# 20. NO WAIVER
+
+A failure or delay by the Licensor to enforce a provision shall not automatically constitute a permanent waiver of the right to enforce that provision later.
+
+# 21. ENTIRE AGREEMENT
+
+This Agreement, together with any expressly incorporated legal notices and applicable third-party licenses, constitutes the agreement governing the Licensee's use of the Software.
+
+No statement in project documentation, community discussions, or informal announcements shall amend this Agreement unless expressly adopted as an authorized amendment.
+
+---
+
+# IMPORTANT THIRD-PARTY DISCLAIMER
+
+**THIS SOFTWARE IS AN INDEPENDENT, UNOFFICIAL PROJECT.**
+
+Torchlight: Infinite and its associated intellectual property are owned by their respective rights holders.
+
+The project is not affiliated with, endorsed by, sponsored by, or approved by XD Entertainment or any associated developer or publisher.
+
+The Licensor distributes only materials it claims the right to license. This Agreement does not grant permission to copy, modify, distribute, or access any third-party game, software, content, or service.
+
+The Software is licensed for private, noncommercial offline research and testing only.
+
+**END OF LICENSE AGREEMENT**
